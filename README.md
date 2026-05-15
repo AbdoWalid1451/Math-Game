@@ -14,12 +14,7 @@ A console-based math game built using C++.
 ## 🛠️ Technologies
 - C++
 - Console Application
-- OOP Concepts
-
-## 🚀 How to Run
-1. Open the solution file in Visual Studio
-2. Build the project
-3. Run the application
+- Fuctional Programming (witout OOP)
 
 ## 📸 Preview
 
